@@ -26,7 +26,7 @@ Los puertos 4100 y 5173 están reservados por otras herramientas.
 
 ## Comandos
 
-`make help` lista todo: `test`, `lint`, `typecheck`, `check`, `db-down`, `ingest`, `eval`.
+`make help` lista todo: `test`, `lint`, `typecheck`, `check`, `db-down`, `db-rollback`, `ingest`, `eval`.
 
 ## Estructura
 

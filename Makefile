@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := help
-.PHONY: help install dev test lint typecheck check db-up db-down db-migrate ingest eval
+.PHONY: help install dev test lint typecheck check db-up db-down db-migrate db-rollback ingest eval
 
 COMPOSE := docker compose -f infra/docker-compose.yml --env-file .env
 PY_PROJECTS := pipelines/ingest pipelines/eval
@@ -44,3 +44,6 @@ ingest: ## Ejecuta el pipeline de ingesta
 
 eval: ## Ejecuta el pipeline de evaluación
 	cd pipelines/eval && uv run python -m dnd_eval
+
+db-rollback: .env ## Deshace la última migración
+	set -a; . ./.env; set +a; pnpm --filter @dnd/db rollback
