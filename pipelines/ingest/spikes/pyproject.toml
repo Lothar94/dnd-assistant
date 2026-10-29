@@ -1,0 +1,15 @@
+[project]
+name = "dnd-ingest-spikes"
+version = "0.0.0"
+description = "Throwaway PDF parser spike (ADR 001). Isolated from dnd-ingest."
+requires-python = ">=3.12"
+dependencies = [
+    "pymupdf>=1.24",
+    "pymupdf4llm>=0.0.17",
+    "docling>=2.0",
+]
+
+[dependency-groups]
+# marker-pdf 2.x needs a vLLM/llama-server backend (docker/GPU runtime); 1.x runs on plain torch.
+# Own environment so surya/transformers pins do not collide with docling.
+marker = ["marker-pdf>=1.10,<2", "pymupdf>=1.24"]
