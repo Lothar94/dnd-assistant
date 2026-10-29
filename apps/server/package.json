@@ -1,0 +1,23 @@
+{
+  "name": "@dnd/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/main/server.ts",
+    "start": "tsx src/main/server.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@dnd/shared": "workspace:*",
+    "@fastify/cors": "^11.3.1",
+    "fastify": "^5.12.5",
+    "zod": "^4.6.6"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "vitest": "^5.0.3"
+  }
+}

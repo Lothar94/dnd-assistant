@@ -1,0 +1,7 @@
+-- migrate:up
+CREATE EXTENSION IF NOT EXISTS vector;
+CREATE EXTENSION IF NOT EXISTS pg_search;
+
+-- migrate:down
+DROP EXTENSION IF EXISTS pg_search;
+DROP EXTENSION IF EXISTS vector;

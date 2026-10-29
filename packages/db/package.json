@@ -1,0 +1,14 @@
+{
+  "name": "@dnd/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "dbmate --migrations-dir ./migrations --no-dump-schema up",
+    "rollback": "dbmate --migrations-dir ./migrations --no-dump-schema down",
+    "status": "dbmate --migrations-dir ./migrations status"
+  },
+  "devDependencies": {
+    "dbmate": "^2.37.0"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+data/raw/*
+data/assets/*
+!data/raw/.gitkeep
+!data/assets/.gitkeep
+infra/pgdata

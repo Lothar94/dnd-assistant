@@ -1,0 +1,21 @@
+{
+  "name": "dnd-assistant",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm --parallel --no-bail --filter @dnd/server --filter @dnd/mcp --filter @dnd/web dev",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.71.1"
+  }
+}

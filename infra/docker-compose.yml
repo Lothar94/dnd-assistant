@@ -1,0 +1,21 @@
+services:
+  postgres:
+    # ParadeDB image = Postgres 17 + pgvector + pg_search
+    image: paradedb/paradedb:latest-pg17
+    container_name: dnd-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-dnd}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-dnd}
+      POSTGRES_DB: ${POSTGRES_DB:-dnd}
+    ports:
+      - '127.0.0.1:5433:5432'
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ${POSTGRES_USER:-dnd} -d ${POSTGRES_DB:-dnd}']
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  pgdata:
