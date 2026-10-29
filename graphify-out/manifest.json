@@ -1,0 +1,230 @@
+{
+  "/home/lpalma/repos/dnd-assistant/eslint.config.js": {
+    "mtime": 1793269617.3562589,
+    "hash": "d550b252b817b40553a730a286e376c9"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/web/vite.config.ts": {
+    "mtime": 1793269617.366381,
+    "hash": "e7cda84277fedf23d7b9fee8870f530e"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/web/src/App.tsx": {
+    "mtime": 1793269617.3560956,
+    "hash": "2a95262966cd82c95eb474ffb88fbc4e"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/web/src/main.tsx": {
+    "mtime": 1793269617.3562589,
+    "hash": "61a7679900b8e855852f848f6f0337c1"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/web/test/App.test.tsx": {
+    "mtime": 1793269617.3562589,
+    "hash": "f1f58284dc10f356f56a8515e4b6fe2a"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/server/vitest.config.ts": {
+    "mtime": 1793269617.3560956,
+    "hash": "082845e6609df869f268be17ccd786f7"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/server/src/app.ts": {
+    "mtime": 1793269617.3559103,
+    "hash": "a3f8d55cd45966fe09082bba3490bffd"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/server/src/config.ts": {
+    "mtime": 1793269617.3560956,
+    "hash": "e7a32edf819025e5b19afe2b330c9f21"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/server/src/main/server.ts": {
+    "mtime": 1793269617.3560956,
+    "hash": "4f0d50a0cd5ff33063252ce804bed889"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/server/test/health.test.ts": {
+    "mtime": 1793269617.3560956,
+    "hash": "6a943dcbe82dbc42e87122fa964a9062"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/mcp/vitest.config.ts": {
+    "mtime": 1793269617.3559103,
+    "hash": "082845e6609df869f268be17ccd786f7"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/mcp/src/server.ts": {
+    "mtime": 1793269617.3559103,
+    "hash": "96a59254d98882dbbe4af113d449ca7d"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/mcp/src/main/http.ts": {
+    "mtime": 1793269617.355884,
+    "hash": "539ec397f17367d721eb4ec833e19aca"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/mcp/src/main/stdio.ts": {
+    "mtime": 1793269617.3559103,
+    "hash": "cbc19494ec99e801864f8ef32629898d"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/mcp/test/ping.test.ts": {
+    "mtime": 1793269617.3559103,
+    "hash": "c3eabf8f834ed5551fdfbf4345e142a4"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/shared/vitest.config.ts": {
+    "mtime": 1793269617.3565772,
+    "hash": "082845e6609df869f268be17ccd786f7"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/shared/src/index.ts": {
+    "mtime": 1793270561.5522535,
+    "hash": "dac2658abee04d2d86400f102a6cebd1"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/shared/src/db.ts": {
+    "mtime": 1793270561.5512536,
+    "hash": "6fee3551108030ea95050d5da98c4059"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/shared/test/shared.test.ts": {
+    "mtime": 1793269617.3565772,
+    "hash": "042ddd41bf9b18b2de6a4521abbb6646"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/shared/test/db.test.ts": {
+    "mtime": 1793270565.6269045,
+    "hash": "1a036ca1842bda274f1e42c74e59d3c4"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/rag/vitest.config.ts": {
+    "mtime": 1793269617.3565772,
+    "hash": "082845e6609df869f268be17ccd786f7"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/rag/src/fusion.ts": {
+    "mtime": 1793269617.3562589,
+    "hash": "c5ba0f48c4b3f429db2ec810d062f7b8"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/rag/src/index.ts": {
+    "mtime": 1793269617.3565772,
+    "hash": "cdc559baff6d20722603ae185c0da062"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/rag/test/fusion.test.ts": {
+    "mtime": 1793269617.3565772,
+    "hash": "0a38487ac26fa7b71336281d7749660f"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/vitest.config.ts": {
+    "mtime": 1793270537.9573207,
+    "hash": "40b2675dedce4b3783117d90263a6869"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000000_extensions.sql": {
+    "mtime": 1793269617.3562589,
+    "hash": "762d16d9ed0f9327e4e291ef0c513e36"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000100_embedding_dim.sql": {
+    "mtime": 1793270504.900326,
+    "hash": "2190aa5549421799b5a46e1b43aaab26"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000300_chunks.sql": {
+    "mtime": 1793270504.90352,
+    "hash": "4ede37c2086d395e56d3021a8622bb48"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000400_entities.sql": {
+    "mtime": 1793270504.9041696,
+    "hash": "ebc958385c3f8acf0c03420f867b4cab"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000500_figures.sql": {
+    "mtime": 1793270673.8473341,
+    "hash": "b0573017153b166a01bf80249c3ac201"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000600_conversations.sql": {
+    "mtime": 1793270504.9056237,
+    "hash": "292fdd4ffcd2d2328d010e82fb701d60"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/migrations/20260101000200_documents_sections.sql": {
+    "mtime": 1793270685.293517,
+    "hash": "446e9293543bcfd2948c2fd0e86e5760"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/test/scratch-db.ts": {
+    "mtime": 1793270583.1533551,
+    "hash": "5555dd00f42d6ba41259ab169f985cd6"
+  },
+  "/home/lpalma/repos/dnd-assistant/packages/db/test/migrations.test.ts": {
+    "mtime": 1793270700.4922528,
+    "hash": "9437d1c1911ca7cc0874bdf1fae35cc8"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/src/dnd_ingest/__init__.py": {
+    "mtime": 1793269617.3565772,
+    "hash": "4867131295172353fe6c2295851defc7"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/src/dnd_ingest/__main__.py": {
+    "mtime": 1793269617.3565772,
+    "hash": "97a5c2bc91ebd06fb6a63e54091a5af4"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/tests/test_smoke.py": {
+    "mtime": 1793269617.3565772,
+    "hash": "77b93b2ca03676ecded76702a3573944"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/spikes/run_parsers.py": {
+    "mtime": 1793269617.3761992,
+    "hash": "602aa6acbbb1492b6298924fb2798061"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/spikes/select_pages.py": {
+    "mtime": 1793269617.3761992,
+    "hash": "5359f8734d64713a96734c7a20d5d7c5"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/spikes/summarize.py": {
+    "mtime": 1793269617.3761992,
+    "hash": "ee0e39c974502250f525bb96c1447dee"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/src/dnd_eval/metrics.py": {
+    "mtime": 1793268810.7124588,
+    "hash": "a5c85d6bb65c8b5398b606228068b3b3"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/src/dnd_eval/dataset.py": {
+    "mtime": 1793268810.71345,
+    "hash": "2a76f90e127c014704946e4ac929e11a"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/src/dnd_eval/report.py": {
+    "mtime": 1793268812.1645195,
+    "hash": "82645f333496e7d5e74f4b59e3b73e4f"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/src/dnd_eval/__init__.py": {
+    "mtime": 1793269617.3565772,
+    "hash": "4867131295172353fe6c2295851defc7"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/src/dnd_eval/__main__.py": {
+    "mtime": 1793269809.9084299,
+    "hash": "98d4cb48a366d5416f9a7b3a51f5abdd"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/tests/test_eval.py": {
+    "mtime": 1793268810.715459,
+    "hash": "36da357f1932f484ab0c5439918befe9"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/eval/tests/test_smoke.py": {
+    "mtime": 1793269617.3565772,
+    "hash": "ff780bf427d9971e09ac542ba3092011"
+  },
+  "/home/lpalma/repos/dnd-assistant/pnpm-workspace.yaml": {
+    "mtime": 1793269617.3565772,
+    "hash": "4d7134bfdd1346fc9fece9256fe81ae4"
+  },
+  "/home/lpalma/repos/dnd-assistant/README.md": {
+    "mtime": 1793269617.366381,
+    "hash": "606008a06764fcdb113ea966ccab2db7"
+  },
+  "/home/lpalma/repos/dnd-assistant/apps/web/index.html": {
+    "mtime": 1793269617.3560956,
+    "hash": "cab073b178bbdcab89cdfdbddea346e5"
+  },
+  "/home/lpalma/repos/dnd-assistant/pipelines/ingest/spikes/README.md": {
+    "mtime": 1793269617.3917968,
+    "hash": "1b544195c07b176cd98c956088d27d97"
+  },
+  "/home/lpalma/repos/dnd-assistant/docs/architecture.md": {
+    "mtime": 1793269617.3562589,
+    "hash": "d9a97a39be9c5dd8f3afb0810a4bfd2d"
+  },
+  "/home/lpalma/repos/dnd-assistant/docs/adr/001-parser.md": {
+    "mtime": 1793269617.4058464,
+    "hash": "214ad18d4b7e90d3a019fa744dccba97"
+  },
+  "/home/lpalma/repos/dnd-assistant/infra/docker-compose.yml": {
+    "mtime": 1793269617.3562589,
+    "hash": "a70e15503ca3b8623b1b6b9509fe5234"
+  },
+  "/home/lpalma/repos/dnd-assistant/data/raw/Dungeon Master's Guide.pdf": {
+    "mtime": 1793002274.0,
+    "hash": "0764689fe6c772cfca670afd95349430"
+  },
+  "/home/lpalma/repos/dnd-assistant/data/raw/Monster Manual.pdf": {
+    "mtime": 1793002274.0,
+    "hash": "069d7b3ee3ad077b9582fabcc7ab1b03"
+  },
+  "/home/lpalma/repos/dnd-assistant/data/raw/Player's Handbook.pdf": {
+    "mtime": 1793002274.0,
+    "hash": "4c8466c03023a8c2a13c478a39f5238f"
+  }
+}

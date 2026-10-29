@@ -1,0 +1,3552 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "migrations.test.ts",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L1",
+      "id": "db_test_migrations_test_ts",
+      "community": 0,
+      "norm_label": "migrations.test.ts"
+    },
+    {
+      "label": "SCHEMA_TABLES",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L4",
+      "id": "test_migrations_test_schema_tables",
+      "community": 0,
+      "norm_label": "schema_tables"
+    },
+    {
+      "label": "APP_TABLES",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L14",
+      "id": "test_migrations_test_app_tables",
+      "community": 0,
+      "norm_label": "app_tables"
+    },
+    {
+      "label": "columnType()",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L16",
+      "id": "test_migrations_test_columntype",
+      "community": 0,
+      "norm_label": "columntype()"
+    },
+    {
+      "label": "explain()",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L25",
+      "id": "test_migrations_test_explain",
+      "community": 0,
+      "norm_label": "explain()"
+    },
+    {
+      "label": "vector()",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L103",
+      "id": "test_migrations_test_vector",
+      "community": 0,
+      "norm_label": "vector()"
+    },
+    {
+      "label": "doc",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L108",
+      "id": "test_migrations_test_doc",
+      "community": 0,
+      "norm_label": "doc"
+    },
+    {
+      "label": "contents",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L113",
+      "id": "test_migrations_test_contents",
+      "community": 0,
+      "norm_label": "contents"
+    },
+    {
+      "label": "{ rows }",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L149",
+      "id": "test_migrations_test_rows",
+      "community": 0,
+      "norm_label": "{ rows }"
+    },
+    {
+      "label": "parent",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L188",
+      "id": "test_migrations_test_parent",
+      "community": 0,
+      "norm_label": "parent"
+    },
+    {
+      "label": "e",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L206",
+      "id": "test_migrations_test_e",
+      "community": 0,
+      "norm_label": "e"
+    },
+    {
+      "label": "section()",
+      "file_type": "code",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L240",
+      "id": "test_migrations_test_section",
+      "community": 0,
+      "norm_label": "section()"
+    },
+    {
+      "label": "scratch-db.ts",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L1",
+      "id": "db_test_scratch_db_ts",
+      "community": 0,
+      "norm_label": "scratch-db.ts"
+    },
+    {
+      "label": "PACKAGE_DIR",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L7",
+      "id": "test_scratch_db_package_dir",
+      "community": 0,
+      "norm_label": "package_dir"
+    },
+    {
+      "label": "urlForDatabase()",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L9",
+      "id": "test_scratch_db_urlfordatabase",
+      "community": 0,
+      "norm_label": "urlfordatabase()"
+    },
+    {
+      "label": "ScratchDb",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L16",
+      "id": "test_scratch_db_scratchdb",
+      "community": 0,
+      "norm_label": "scratchdb"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L17",
+      "id": "test_scratch_db_scratchdb_constructor",
+      "community": 0,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".create()",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L23",
+      "id": "test_scratch_db_scratchdb_create",
+      "community": 0,
+      "norm_label": ".create()"
+    },
+    {
+      "label": ".dbmate()",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L39",
+      "id": "test_scratch_db_scratchdb_dbmate",
+      "community": 0,
+      "norm_label": ".dbmate()"
+    },
+    {
+      "label": ".tables()",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L56",
+      "id": "test_scratch_db_scratchdb_tables",
+      "community": 0,
+      "norm_label": ".tables()"
+    },
+    {
+      "label": ".drop()",
+      "file_type": "code",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L63",
+      "id": "test_scratch_db_scratchdb_drop",
+      "community": 0,
+      "norm_label": ".drop()"
+    },
+    {
+      "label": "vitest.config.ts",
+      "file_type": "code",
+      "source_file": "db/vitest.config.ts",
+      "source_location": "L1",
+      "id": "db_vitest_config_ts",
+      "community": 20,
+      "norm_label": "vitest.config.ts"
+    },
+    {
+      "label": "db.ts",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L1",
+      "id": "shared_src_db_ts",
+      "community": 1,
+      "norm_label": "db.ts"
+    },
+    {
+      "label": "messageRoleSchema",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L5",
+      "id": "src_db_messageroleschema",
+      "community": 1,
+      "norm_label": "messageroleschema"
+    },
+    {
+      "label": "MessageRole",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L6",
+      "id": "src_db_messagerole",
+      "community": 1,
+      "norm_label": "messagerole"
+    },
+    {
+      "label": "citationSchema",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L9",
+      "id": "src_db_citationschema",
+      "community": 1,
+      "norm_label": "citationschema"
+    },
+    {
+      "label": "Citation",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L16",
+      "id": "src_db_citation",
+      "community": 1,
+      "norm_label": "citation"
+    },
+    {
+      "label": "citationsSchema",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L18",
+      "id": "src_db_citationsschema",
+      "community": 1,
+      "norm_label": "citationsschema"
+    },
+    {
+      "label": "bboxSchema",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L21",
+      "id": "src_db_bboxschema",
+      "community": 1,
+      "norm_label": "bboxschema"
+    },
+    {
+      "label": "BBox",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L22",
+      "id": "src_db_bbox",
+      "community": 1,
+      "norm_label": "bbox"
+    },
+    {
+      "label": "Embedding",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L24",
+      "id": "src_db_embedding",
+      "community": 1,
+      "norm_label": "embedding"
+    },
+    {
+      "label": "DocumentRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L26",
+      "id": "src_db_documentrow",
+      "community": 1,
+      "norm_label": "documentrow"
+    },
+    {
+      "label": "SectionRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L37",
+      "id": "src_db_sectionrow",
+      "community": 1,
+      "norm_label": "sectionrow"
+    },
+    {
+      "label": "ChunkRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L49",
+      "id": "src_db_chunkrow",
+      "community": 1,
+      "norm_label": "chunkrow"
+    },
+    {
+      "label": "EntityRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L64",
+      "id": "src_db_entityrow",
+      "community": 1,
+      "norm_label": "entityrow"
+    },
+    {
+      "label": "EntityRelationRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L74",
+      "id": "src_db_entityrelationrow",
+      "community": 1,
+      "norm_label": "entityrelationrow"
+    },
+    {
+      "label": "FigureRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L82",
+      "id": "src_db_figurerow",
+      "community": 1,
+      "norm_label": "figurerow"
+    },
+    {
+      "label": "ConversationRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L97",
+      "id": "src_db_conversationrow",
+      "community": 1,
+      "norm_label": "conversationrow"
+    },
+    {
+      "label": "MessageRow",
+      "file_type": "code",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L105",
+      "id": "src_db_messagerow",
+      "community": 1,
+      "norm_label": "messagerow"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L1",
+      "id": "shared_src_index_ts",
+      "community": 13,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "PORTS",
+      "file_type": "code",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L3",
+      "id": "src_index_ports",
+      "community": 13,
+      "norm_label": "ports"
+    },
+    {
+      "label": "healthResponseSchema",
+      "file_type": "code",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L5",
+      "id": "src_index_healthresponseschema",
+      "community": 13,
+      "norm_label": "healthresponseschema"
+    },
+    {
+      "label": "HealthResponse",
+      "file_type": "code",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L10",
+      "id": "src_index_healthresponse",
+      "community": 13,
+      "norm_label": "healthresponse"
+    },
+    {
+      "label": "db.test.ts",
+      "file_type": "code",
+      "source_file": "shared/test/db.test.ts",
+      "source_location": "L1",
+      "id": "shared_test_db_test_ts",
+      "community": 13,
+      "norm_label": "db.test.ts"
+    },
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "eslint.config.js",
+      "source_location": "L1",
+      "community": 21,
+      "norm_label": "eslint.config.js",
+      "id": "eslint_config_js"
+    },
+    {
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "apps/web/vite.config.ts",
+      "source_location": "L1",
+      "community": 22,
+      "norm_label": "vite.config.ts",
+      "id": "apps_web_vite_config_ts"
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "apps/web/src/App.tsx",
+      "source_location": "L1",
+      "community": 10,
+      "norm_label": "app.tsx",
+      "id": "apps_web_src_app_tsx"
+    },
+    {
+      "label": "fetchHealth()",
+      "file_type": "code",
+      "source_file": "apps/web/src/App.tsx",
+      "source_location": "L4",
+      "community": 10,
+      "norm_label": "fetchhealth()",
+      "id": "src_app_fetchhealth"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "apps/web/src/App.tsx",
+      "source_location": "L10",
+      "community": 10,
+      "norm_label": "app()",
+      "id": "src_app_app"
+    },
+    {
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "apps/web/src/main.tsx",
+      "source_location": "L1",
+      "community": 10,
+      "norm_label": "main.tsx",
+      "id": "apps_web_src_main_tsx"
+    },
+    {
+      "label": "root",
+      "file_type": "code",
+      "source_file": "apps/web/src/main.tsx",
+      "source_location": "L7",
+      "community": 10,
+      "norm_label": "root",
+      "id": "src_main_root"
+    },
+    {
+      "label": "App.test.tsx",
+      "file_type": "code",
+      "source_file": "apps/web/test/App.test.tsx",
+      "source_location": "L1",
+      "community": 10,
+      "norm_label": "app.test.tsx",
+      "id": "apps_web_test_app_test_tsx"
+    },
+    {
+      "label": "renderApp()",
+      "file_type": "code",
+      "source_file": "apps/web/test/App.test.tsx",
+      "source_location": "L6",
+      "community": 10,
+      "norm_label": "renderapp()",
+      "id": "test_app_test_renderapp"
+    },
+    {
+      "label": "vitest.config.ts",
+      "file_type": "code",
+      "source_file": "apps/server/vitest.config.ts",
+      "source_location": "L1",
+      "community": 23,
+      "norm_label": "vitest.config.ts",
+      "id": "apps_server_vitest_config_ts"
+    },
+    {
+      "label": "app.ts",
+      "file_type": "code",
+      "source_file": "apps/server/src/app.ts",
+      "source_location": "L1",
+      "community": 5,
+      "norm_label": "app.ts",
+      "id": "apps_server_src_app_ts"
+    },
+    {
+      "label": "buildApp()",
+      "file_type": "code",
+      "source_file": "apps/server/src/app.ts",
+      "source_location": "L6",
+      "community": 5,
+      "norm_label": "buildapp()",
+      "id": "src_app_buildapp"
+    },
+    {
+      "label": "config.ts",
+      "file_type": "code",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L1",
+      "community": 5,
+      "norm_label": "config.ts",
+      "id": "apps_server_src_config_ts"
+    },
+    {
+      "label": "envSchema",
+      "file_type": "code",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L4",
+      "community": 5,
+      "norm_label": "envschema",
+      "id": "src_config_envschema"
+    },
+    {
+      "label": "Config",
+      "file_type": "code",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L10",
+      "community": 5,
+      "norm_label": "config",
+      "id": "src_config_config"
+    },
+    {
+      "label": "loadConfig()",
+      "file_type": "code",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L12",
+      "community": 5,
+      "norm_label": "loadconfig()",
+      "id": "src_config_loadconfig"
+    },
+    {
+      "label": "server.ts",
+      "file_type": "code",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L1",
+      "community": 5,
+      "norm_label": "server.ts",
+      "id": "apps_server_src_main_server_ts"
+    },
+    {
+      "label": "config",
+      "file_type": "code",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L4",
+      "community": 5,
+      "norm_label": "config",
+      "id": "main_server_config"
+    },
+    {
+      "label": "health.test.ts",
+      "file_type": "code",
+      "source_file": "apps/server/test/health.test.ts",
+      "source_location": "L1",
+      "community": 5,
+      "norm_label": "health.test.ts",
+      "id": "apps_server_test_health_test_ts"
+    },
+    {
+      "label": "vitest.config.ts",
+      "file_type": "code",
+      "source_file": "apps/mcp/vitest.config.ts",
+      "source_location": "L1",
+      "community": 24,
+      "norm_label": "vitest.config.ts",
+      "id": "apps_mcp_vitest_config_ts"
+    },
+    {
+      "label": "server.ts",
+      "file_type": "code",
+      "source_file": "apps/mcp/src/server.ts",
+      "source_location": "L1",
+      "community": 9,
+      "norm_label": "server.ts",
+      "id": "apps_mcp_src_server_ts"
+    },
+    {
+      "label": "createMcpServer()",
+      "file_type": "code",
+      "source_file": "apps/mcp/src/server.ts",
+      "source_location": "L3",
+      "community": 9,
+      "norm_label": "createmcpserver()",
+      "id": "src_server_createmcpserver"
+    },
+    {
+      "label": "http.ts",
+      "file_type": "code",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L1",
+      "community": 9,
+      "norm_label": "http.ts",
+      "id": "apps_mcp_src_main_http_ts"
+    },
+    {
+      "label": "port",
+      "file_type": "code",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L6",
+      "community": 9,
+      "norm_label": "port",
+      "id": "main_http_port"
+    },
+    {
+      "label": "http",
+      "file_type": "code",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L10",
+      "community": 9,
+      "norm_label": "http",
+      "id": "main_http_http"
+    },
+    {
+      "label": "stdio.ts",
+      "file_type": "code",
+      "source_file": "apps/mcp/src/main/stdio.ts",
+      "source_location": "L1",
+      "community": 9,
+      "norm_label": "stdio.ts",
+      "id": "apps_mcp_src_main_stdio_ts"
+    },
+    {
+      "label": "ping.test.ts",
+      "file_type": "code",
+      "source_file": "apps/mcp/test/ping.test.ts",
+      "source_location": "L1",
+      "community": 9,
+      "norm_label": "ping.test.ts",
+      "id": "apps_mcp_test_ping_test_ts"
+    },
+    {
+      "label": "connectedClient()",
+      "file_type": "code",
+      "source_file": "apps/mcp/test/ping.test.ts",
+      "source_location": "L6",
+      "community": 9,
+      "norm_label": "connectedclient()",
+      "id": "test_ping_test_connectedclient"
+    },
+    {
+      "label": "vitest.config.ts",
+      "file_type": "code",
+      "source_file": "packages/shared/vitest.config.ts",
+      "source_location": "L1",
+      "community": 25,
+      "norm_label": "vitest.config.ts",
+      "id": "packages_shared_vitest_config_ts"
+    },
+    {
+      "label": "shared.test.ts",
+      "file_type": "code",
+      "source_file": "packages/shared/test/shared.test.ts",
+      "source_location": "L1",
+      "community": 13,
+      "norm_label": "shared.test.ts",
+      "id": "packages_shared_test_shared_test_ts"
+    },
+    {
+      "label": "vitest.config.ts",
+      "file_type": "code",
+      "source_file": "packages/rag/vitest.config.ts",
+      "source_location": "L1",
+      "community": 26,
+      "norm_label": "vitest.config.ts",
+      "id": "packages_rag_vitest_config_ts"
+    },
+    {
+      "label": "fusion.ts",
+      "file_type": "code",
+      "source_file": "packages/rag/src/fusion.ts",
+      "source_location": "L1",
+      "community": 18,
+      "norm_label": "fusion.ts",
+      "id": "packages_rag_src_fusion_ts"
+    },
+    {
+      "label": "reciprocalRankFusion()",
+      "file_type": "code",
+      "source_file": "packages/rag/src/fusion.ts",
+      "source_location": "L4",
+      "community": 18,
+      "norm_label": "reciprocalrankfusion()",
+      "id": "src_fusion_reciprocalrankfusion"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "packages/rag/src/index.ts",
+      "source_location": "L1",
+      "community": 19,
+      "norm_label": "index.ts",
+      "id": "packages_rag_src_index_ts"
+    },
+    {
+      "label": "fusion.test.ts",
+      "file_type": "code",
+      "source_file": "packages/rag/test/fusion.test.ts",
+      "source_location": "L1",
+      "community": 19,
+      "norm_label": "fusion.test.ts",
+      "id": "packages_rag_test_fusion_test_ts"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/src/dnd_ingest/__init__.py",
+      "source_location": "L1",
+      "community": 27,
+      "norm_label": "__init__.py",
+      "id": "pipelines_ingest_src_dnd_ingest_init_py"
+    },
+    {
+      "label": "__main__.py",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/src/dnd_ingest/__main__.py",
+      "source_location": "L1",
+      "community": 15,
+      "norm_label": "__main__.py",
+      "id": "pipelines_ingest_src_dnd_ingest_main_py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/src/dnd_ingest/__main__.py",
+      "source_location": "L4",
+      "community": 15,
+      "norm_label": "main()",
+      "id": "dnd_ingest_main_main"
+    },
+    {
+      "label": "Entry point: `uv run python -m dnd_ingest`.",
+      "file_type": "rationale",
+      "source_file": "pipelines/ingest/src/dnd_ingest/__main__.py",
+      "source_location": "L1",
+      "community": 15,
+      "norm_label": "entry point: `uv run python -m dnd_ingest`.",
+      "id": "dnd_ingest_main_rationale_1"
+    },
+    {
+      "label": "test_smoke.py",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/tests/test_smoke.py",
+      "source_location": "L1",
+      "community": 16,
+      "norm_label": "test_smoke.py",
+      "id": "pipelines_ingest_tests_test_smoke_py"
+    },
+    {
+      "label": "test_version()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/tests/test_smoke.py",
+      "source_location": "L4",
+      "community": 16,
+      "norm_label": "test_version()",
+      "id": "tests_test_smoke_test_version"
+    },
+    {
+      "label": "run_parsers.py",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L1",
+      "community": 6,
+      "norm_label": "run_parsers.py",
+      "id": "pipelines_ingest_spikes_run_parsers_py"
+    },
+    {
+      "label": "build_subset()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L19",
+      "community": 6,
+      "norm_label": "build_subset()",
+      "id": "spikes_run_parsers_build_subset"
+    },
+    {
+      "label": "run_pymupdf4llm()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L31",
+      "community": 6,
+      "norm_label": "run_pymupdf4llm()",
+      "id": "spikes_run_parsers_run_pymupdf4llm"
+    },
+    {
+      "label": "run_docling()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L46",
+      "community": 6,
+      "norm_label": "run_docling()",
+      "id": "spikes_run_parsers_run_docling"
+    },
+    {
+      "label": "run_marker()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L78",
+      "community": 6,
+      "norm_label": "run_marker()",
+      "id": "spikes_run_parsers_run_marker"
+    },
+    {
+      "label": "marker_figures()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L99",
+      "community": 6,
+      "norm_label": "marker_figures()",
+      "id": "spikes_run_parsers_marker_figures"
+    },
+    {
+      "label": "metrics()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L124",
+      "community": 6,
+      "norm_label": "metrics()",
+      "id": "spikes_run_parsers_metrics"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L142",
+      "community": 6,
+      "norm_label": "main()",
+      "id": "spikes_run_parsers_main"
+    },
+    {
+      "label": "Run one parser over the sampled pages of every book (ADR 001).  Writes out/<pars",
+      "file_type": "rationale",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L1",
+      "community": 6,
+      "norm_label": "run one parser over the sampled pages of every book (adr 001).  writes out/<pars",
+      "id": "spikes_run_parsers_rationale_1"
+    },
+    {
+      "label": "select_pages.py",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L1",
+      "community": 7,
+      "norm_label": "select_pages.py",
+      "id": "pipelines_ingest_spikes_select_pages_py"
+    },
+    {
+      "label": "image_coverage()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L24",
+      "community": 7,
+      "norm_label": "image_coverage()",
+      "id": "spikes_select_pages_image_coverage"
+    },
+    {
+      "label": "is_two_column()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L33",
+      "community": 7,
+      "norm_label": "is_two_column()",
+      "id": "spikes_select_pages_is_two_column"
+    },
+    {
+      "label": "has_sidebar()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L41",
+      "community": 7,
+      "norm_label": "has_sidebar()",
+      "id": "spikes_select_pages_has_sidebar"
+    },
+    {
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L52",
+      "community": 7,
+      "norm_label": "classify()",
+      "id": "spikes_select_pages_classify"
+    },
+    {
+      "label": "spread()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L69",
+      "community": 7,
+      "norm_label": "spread()",
+      "id": "spikes_select_pages_spread"
+    },
+    {
+      "label": "select()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L76",
+      "community": 7,
+      "norm_label": "select()",
+      "id": "spikes_select_pages_select"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L97",
+      "community": 7,
+      "norm_label": "main()",
+      "id": "spikes_select_pages_main"
+    },
+    {
+      "label": "Pick ~30 representative pages per book (deterministic) and write sample.json.  C",
+      "file_type": "rationale",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L1",
+      "community": 7,
+      "norm_label": "pick ~30 representative pages per book (deterministic) and write sample.json.  c",
+      "id": "spikes_select_pages_rationale_1"
+    },
+    {
+      "label": "summarize.py",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L1",
+      "community": 14,
+      "norm_label": "summarize.py",
+      "id": "pipelines_ingest_spikes_summarize_py"
+    },
+    {
+      "label": "folio()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L20",
+      "community": 14,
+      "norm_label": "folio()",
+      "id": "spikes_summarize_folio"
+    },
+    {
+      "label": "folio_retention()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L28",
+      "community": 14,
+      "norm_label": "folio_retention()",
+      "id": "spikes_summarize_folio_retention"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L42",
+      "community": 14,
+      "norm_label": "main()",
+      "id": "spikes_summarize_main"
+    },
+    {
+      "label": "Aggregate out/<parser>/<book>/metrics.json into the ADR comparison table.  Also",
+      "file_type": "rationale",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L1",
+      "community": 14,
+      "norm_label": "aggregate out/<parser>/<book>/metrics.json into the adr comparison table.  also",
+      "id": "spikes_summarize_rationale_1"
+    },
+    {
+      "label": "metrics.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L1",
+      "community": 2,
+      "norm_label": "metrics.py",
+      "id": "pipelines_eval_src_dnd_eval_metrics_py"
+    },
+    {
+      "label": "recall_at_k()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L9",
+      "community": 2,
+      "norm_label": "recall_at_k()",
+      "id": "dnd_eval_metrics_recall_at_k"
+    },
+    {
+      "label": "mrr()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L15",
+      "community": 2,
+      "norm_label": "mrr()",
+      "id": "dnd_eval_metrics_mrr"
+    },
+    {
+      "label": "ndcg_at_k()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L22",
+      "community": 2,
+      "norm_label": "ndcg_at_k()",
+      "id": "dnd_eval_metrics_ndcg_at_k"
+    },
+    {
+      "label": "citation_accuracy()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L35",
+      "community": 2,
+      "norm_label": "citation_accuracy()",
+      "id": "dnd_eval_metrics_citation_accuracy"
+    },
+    {
+      "label": "faithfulness()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L42",
+      "community": 2,
+      "norm_label": "faithfulness()",
+      "id": "dnd_eval_metrics_faithfulness"
+    },
+    {
+      "label": "Retrieval and answer metrics. Pure functions, no I/O.",
+      "file_type": "rationale",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L1",
+      "community": 2,
+      "norm_label": "retrieval and answer metrics. pure functions, no i/o.",
+      "id": "dnd_eval_metrics_rationale_1"
+    },
+    {
+      "label": "Fraction of cited sources that are expected. No citations -> 0.0.",
+      "file_type": "rationale",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L36",
+      "community": 2,
+      "norm_label": "fraction of cited sources that are expected. no citations -> 0.0.",
+      "id": "dnd_eval_metrics_rationale_36"
+    },
+    {
+      "label": "Supported claims / total claims (judge supplies counts).",
+      "file_type": "rationale",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L43",
+      "community": 2,
+      "norm_label": "supported claims / total claims (judge supplies counts).",
+      "id": "dnd_eval_metrics_rationale_43"
+    },
+    {
+      "label": "dataset.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L1",
+      "community": 11,
+      "norm_label": "dataset.py",
+      "id": "pipelines_eval_src_dnd_eval_dataset_py"
+    },
+    {
+      "label": "Question",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L14",
+      "community": 11,
+      "norm_label": "question",
+      "id": "dnd_eval_dataset_question"
+    },
+    {
+      "label": "abstain()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L26",
+      "community": 11,
+      "norm_label": "abstain()",
+      "id": "dnd_eval_dataset_abstain"
+    },
+    {
+      "label": "parse()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L30",
+      "community": 11,
+      "norm_label": "parse()",
+      "id": "dnd_eval_dataset_parse"
+    },
+    {
+      "label": "validate()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L45",
+      "community": 11,
+      "norm_label": "validate()",
+      "id": "dnd_eval_dataset_validate"
+    },
+    {
+      "label": "load()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L60",
+      "community": 11,
+      "norm_label": "load()",
+      "id": "dnd_eval_dataset_load"
+    },
+    {
+      "label": "Golden set loading and validation (JSONL, one question per line).",
+      "file_type": "rationale",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L1",
+      "community": 11,
+      "norm_label": "golden set loading and validation (jsonl, one question per line).",
+      "id": "dnd_eval_dataset_rationale_1"
+    },
+    {
+      "label": "report.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L1",
+      "community": 8,
+      "norm_label": "report.py",
+      "id": "pipelines_eval_src_dnd_eval_report_py"
+    },
+    {
+      "label": "score()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L13",
+      "community": 2,
+      "norm_label": "score()",
+      "id": "dnd_eval_report_score"
+    },
+    {
+      "label": "aggregate()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L27",
+      "community": 8,
+      "norm_label": "aggregate()",
+      "id": "dnd_eval_report_aggregate"
+    },
+    {
+      "label": "compare()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L36",
+      "community": 8,
+      "norm_label": "compare()",
+      "id": "dnd_eval_report_compare"
+    },
+    {
+      "label": "save()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L46",
+      "community": 8,
+      "norm_label": "save()",
+      "id": "dnd_eval_report_save"
+    },
+    {
+      "label": "Aggregate per-question results and compare two runs.",
+      "file_type": "rationale",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L1",
+      "community": 8,
+      "norm_label": "aggregate per-question results and compare two runs.",
+      "id": "dnd_eval_report_rationale_1"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/__init__.py",
+      "source_location": "L1",
+      "community": 8,
+      "norm_label": "__init__.py",
+      "id": "pipelines_eval_src_dnd_eval_init_py"
+    },
+    {
+      "label": "__main__.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L1",
+      "community": 8,
+      "norm_label": "__main__.py",
+      "id": "pipelines_eval_src_dnd_eval_main_py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L14",
+      "community": 8,
+      "norm_label": "main()",
+      "id": "dnd_eval_main_main"
+    },
+    {
+      "label": "Entry point: `uv run python -m dnd_eval [--subset srd] [--compare A.json B.json]",
+      "file_type": "rationale",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L1",
+      "community": 8,
+      "norm_label": "entry point: `uv run python -m dnd_eval [--subset srd] [--compare a.json b.json]",
+      "id": "dnd_eval_main_rationale_1"
+    },
+    {
+      "label": "test_eval.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L1",
+      "community": 2,
+      "norm_label": "test_eval.py",
+      "id": "pipelines_eval_tests_test_eval_py"
+    },
+    {
+      "label": "test_recall_mrr_ndcg()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L9",
+      "community": 2,
+      "norm_label": "test_recall_mrr_ndcg()",
+      "id": "tests_test_eval_test_recall_mrr_ndcg"
+    },
+    {
+      "label": "test_citation_accuracy()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L18",
+      "community": 2,
+      "norm_label": "test_citation_accuracy()",
+      "id": "tests_test_eval_test_citation_accuracy"
+    },
+    {
+      "label": "test_validation_rejects_bad_rows()",
+      "file_type": "code",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L23",
+      "community": 2,
+      "norm_label": "test_validation_rejects_bad_rows()",
+      "id": "tests_test_eval_test_validation_rejects_bad_rows"
+    },
+    {
+      "label": "test_smoke.py",
+      "file_type": "code",
+      "source_file": "pipelines/eval/tests/test_smoke.py",
+      "source_location": "L1",
+      "community": 16,
+      "norm_label": "test_smoke.py",
+      "id": "pipelines_eval_tests_test_smoke_py"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 12,
+      "norm_label": "readme.md",
+      "id": "readme_md"
+    },
+    {
+      "label": "D&D Assistant",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 12,
+      "norm_label": "d&d assistant",
+      "id": "dnd_assistant_readme_d_d_assistant"
+    },
+    {
+      "label": "Requisitos",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "community": 12,
+      "norm_label": "requisitos",
+      "id": "dnd_assistant_readme_requisitos"
+    },
+    {
+      "label": "Arranque",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "community": 12,
+      "norm_label": "arranque",
+      "id": "dnd_assistant_readme_arranque"
+    },
+    {
+      "label": "code:sh (make install   # pnpm + uv, crea .env desde .env.example)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "community": 12,
+      "norm_label": "code:sh (make install   # pnpm + uv, crea .env desde .env.example)",
+      "id": "dnd_assistant_readme_codeblock_1"
+    },
+    {
+      "label": "Comandos",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L27",
+      "community": 12,
+      "norm_label": "comandos",
+      "id": "dnd_assistant_readme_comandos"
+    },
+    {
+      "label": "Estructura",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "community": 12,
+      "norm_label": "estructura",
+      "id": "dnd_assistant_readme_estructura"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "pipelines/ingest/spikes/README.md",
+      "source_location": "L1",
+      "community": 17,
+      "norm_label": "readme.md",
+      "id": "pipelines_ingest_spikes_readme_md"
+    },
+    {
+      "label": "Spike: parsing de manuales PDF (ADR 001)",
+      "file_type": "document",
+      "source_file": "pipelines/ingest/spikes/README.md",
+      "source_location": "L1",
+      "community": 17,
+      "norm_label": "spike: parsing de manuales pdf (adr 001)",
+      "id": "spikes_readme_spike_parsing_de_manuales_pdf_adr_001"
+    },
+    {
+      "label": "code:sh (cd pipelines/ingest/spikes)",
+      "file_type": "document",
+      "source_file": "pipelines/ingest/spikes/README.md",
+      "source_location": "L5",
+      "community": 17,
+      "norm_label": "code:sh (cd pipelines/ingest/spikes)",
+      "id": "spikes_readme_codeblock_1"
+    },
+    {
+      "label": "architecture.md",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "architecture.md",
+      "id": "docs_architecture_md"
+    },
+    {
+      "label": "D&D Assistant \u2014 Arquitectura propuesta (PoC)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "d&d assistant \u2014 arquitectura propuesta (poc)",
+      "id": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc"
+    },
+    {
+      "label": "1. Vista general",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L10",
+      "community": 3,
+      "norm_label": "1. vista general",
+      "id": "docs_architecture_1_vista_general"
+    },
+    {
+      "label": "code:block1 (\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 offline (Python) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L12",
+      "community": 3,
+      "norm_label": "code:block1 (\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 offline (python) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500)",
+      "id": "docs_architecture_codeblock_1"
+    },
+    {
+      "label": "2. Estructura del monorepo (mismo patr\u00f3n que task_app)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L33",
+      "community": 3,
+      "norm_label": "2. estructura del monorepo (mismo patron que task_app)",
+      "id": "docs_architecture_2_estructura_del_monorepo_mismo_patr_n_que_task_app"
+    },
+    {
+      "label": "code:block2 (apps/web            React 19 + Vite + Tailwind + TanStack Qu)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L35",
+      "community": 3,
+      "norm_label": "code:block2 (apps/web            react 19 + vite + tailwind + tanstack qu)",
+      "id": "docs_architecture_codeblock_2"
+    },
+    {
+      "label": "3. Ingesta (calidad de los datos = calidad del RAG)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L55",
+      "community": 3,
+      "norm_label": "3. ingesta (calidad de los datos = calidad del rag)",
+      "id": "docs_architecture_3_ingesta_calidad_de_los_datos_calidad_del_rag"
+    },
+    {
+      "label": "4. Recuperaci\u00f3n (packages/rag)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L75",
+      "community": 3,
+      "norm_label": "4. recuperacion (packages/rag)",
+      "id": "docs_architecture_4_recuperaci_n_packages_rag"
+    },
+    {
+      "label": "Grafo de conocimiento",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L93",
+      "community": 3,
+      "norm_label": "grafo de conocimiento",
+      "id": "docs_architecture_grafo_de_conocimiento"
+    },
+    {
+      "label": "5. Multimodal (im\u00e1genes)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L102",
+      "community": 3,
+      "norm_label": "5. multimodal (imagenes)",
+      "id": "docs_architecture_5_multimodal_im_genes"
+    },
+    {
+      "label": "6. Base de datos",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L117",
+      "community": 3,
+      "norm_label": "6. base de datos",
+      "id": "docs_architecture_6_base_de_datos"
+    },
+    {
+      "label": "7. MCP",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L133",
+      "community": 3,
+      "norm_label": "7. mcp",
+      "id": "docs_architecture_7_mcp"
+    },
+    {
+      "label": "8. Evaluaci\u00f3n (desde el d\u00eda 1)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L147",
+      "community": 3,
+      "norm_label": "8. evaluacion (desde el dia 1)",
+      "id": "docs_architecture_8_evaluaci_n_desde_el_d_a_1"
+    },
+    {
+      "label": "9. Riesgos",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L155",
+      "community": 3,
+      "norm_label": "9. riesgos",
+      "id": "docs_architecture_9_riesgos"
+    },
+    {
+      "label": "001-parser.md",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L1",
+      "community": 4,
+      "norm_label": "001-parser.md",
+      "id": "docs_adr_001_parser_md"
+    },
+    {
+      "label": "ADR 001 \u2014 Parser de los manuales PDF",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L1",
+      "community": 4,
+      "norm_label": "adr 001 \u2014 parser de los manuales pdf",
+      "id": "adr_001_parser_adr_001_parser_de_los_manuales_pdf"
+    },
+    {
+      "label": "Contexto",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L7",
+      "community": 4,
+      "norm_label": "contexto",
+      "id": "adr_001_parser_contexto"
+    },
+    {
+      "label": "M\u00e9todo",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L15",
+      "community": 4,
+      "norm_label": "metodo",
+      "id": "adr_001_parser_m_todo"
+    },
+    {
+      "label": "Resultados",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L28",
+      "community": 4,
+      "norm_label": "resultados",
+      "id": "adr_001_parser_resultados"
+    },
+    {
+      "label": "Ejemplos de salida (Monster Manual, p. 40, Chuul)",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L63",
+      "community": 4,
+      "norm_label": "ejemplos de salida (monster manual, p. 40, chuul)",
+      "id": "adr_001_parser_ejemplos_de_salida_monster_manual_p_40_chuul"
+    },
+    {
+      "label": "code:block1 (#### **CHUUL**)",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L67",
+      "community": 4,
+      "norm_label": "code:block1 (#### **chuul**)",
+      "id": "adr_001_parser_codeblock_1"
+    },
+    {
+      "label": "code:block2 (## CHUUL)",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L76",
+      "community": 4,
+      "norm_label": "code:block2 (## chuul)",
+      "id": "adr_001_parser_codeblock_2"
+    },
+    {
+      "label": "code:block3 (### **CHUUL**)",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L86",
+      "community": 4,
+      "norm_label": "code:block3 (### **chuul**)",
+      "id": "adr_001_parser_codeblock_3"
+    },
+    {
+      "label": "Decisi\u00f3n",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L95",
+      "community": 4,
+      "norm_label": "decision",
+      "id": "adr_001_parser_decisi_n"
+    },
+    {
+      "label": "Alternativas descartadas",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L112",
+      "community": 4,
+      "norm_label": "alternativas descartadas",
+      "id": "adr_001_parser_alternativas_descartadas"
+    },
+    {
+      "label": "Limitaciones del spike (no resueltas)",
+      "file_type": "document",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L119",
+      "community": 4,
+      "norm_label": "limitaciones del spike (no resueltas)",
+      "id": "adr_001_parser_limitaciones_del_spike_no_resueltas"
+    },
+    {
+      "label": "001-parser.md",
+      "file_type": "document",
+      "source_file": "001-parser.md",
+      "source_location": "L1",
+      "community": 4,
+      "norm_label": "001-parser.md",
+      "id": "001_parser_md"
+    }
+  ],
+  "links": [
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "db_test_scratch_db_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_scratch_db_scratchdb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_schema_tables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_app_tables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_columntype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_explain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_vector",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_doc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_contents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_rows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_parent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/migrations.test.ts",
+      "source_location": "L240",
+      "weight": 1.0,
+      "source": "db_test_migrations_test_ts",
+      "target": "test_migrations_test_section",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "db_test_scratch_db_ts",
+      "target": "test_scratch_db_package_dir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "db_test_scratch_db_ts",
+      "target": "test_scratch_db_urlfordatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "db_test_scratch_db_ts",
+      "target": "test_scratch_db_scratchdb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb_create",
+      "target": "test_scratch_db_urlfordatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb_drop",
+      "target": "test_scratch_db_urlfordatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb",
+      "target": "test_scratch_db_scratchdb_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb",
+      "target": "test_scratch_db_scratchdb_create",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb",
+      "target": "test_scratch_db_scratchdb_dbmate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb",
+      "target": "test_scratch_db_scratchdb_tables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "db/test/scratch-db.ts",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "test_scratch_db_scratchdb",
+      "target": "test_scratch_db_scratchdb_drop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_messageroleschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_messagerole",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_citationschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_citation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_citationsschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_bboxschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_bbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_embedding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_documentrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_sectionrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_chunkrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_entityrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_entityrelationrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_figurerow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_conversationrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/db.ts",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "shared_src_db_ts",
+      "target": "src_db_messagerow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "shared_src_index_ts",
+      "target": "src_index_ports",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "shared_src_index_ts",
+      "target": "src_index_healthresponseschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/src/index.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "shared_src_index_ts",
+      "target": "src_index_healthresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "shared/test/db.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "shared_test_db_test_ts",
+      "target": "shared_src_index_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/shared/test/shared.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "packages_shared_test_shared_test_ts",
+      "target": "src_index_ports"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/shared/test/shared.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "packages_shared_test_shared_test_ts",
+      "target": "src_index_healthresponseschema"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/src/App.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_src_app_tsx",
+      "target": "src_app_fetchhealth"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/src/App.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_src_app_tsx",
+      "target": "src_app_app"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/src/main.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_src_main_tsx",
+      "target": "apps_web_src_app_tsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/test/App.test.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_test_app_test_tsx",
+      "target": "apps_web_src_app_tsx"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/src/main.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_src_main_tsx",
+      "target": "src_app_app"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/test/App.test.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_test_app_test_tsx",
+      "target": "src_app_app"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/src/main.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_src_main_tsx",
+      "target": "src_main_root"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/web/test/App.test.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_web_test_app_test_tsx",
+      "target": "test_app_test_renderapp"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/app.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_app_ts",
+      "target": "apps_server_src_config_ts"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/app.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_app_ts",
+      "target": "src_config_config"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/app.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_app_ts",
+      "target": "src_app_buildapp"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_main_server_ts",
+      "target": "apps_server_src_app_ts"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/test/health.test.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_test_health_test_ts",
+      "target": "apps_server_src_app_ts"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_main_server_ts",
+      "target": "src_app_buildapp"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/test/health.test.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_test_health_test_ts",
+      "target": "src_app_buildapp"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_config_ts",
+      "target": "src_config_envschema"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_config_ts",
+      "target": "src_config_config"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/config.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_config_ts",
+      "target": "src_config_loadconfig"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_main_server_ts",
+      "target": "apps_server_src_config_ts"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/test/health.test.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_test_health_test_ts",
+      "target": "apps_server_src_config_ts"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_main_server_ts",
+      "target": "src_config_loadconfig"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/test/health.test.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_test_health_test_ts",
+      "target": "src_config_loadconfig"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/server/src/main/server.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_server_src_main_server_ts",
+      "target": "main_server_config"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/server.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_server_ts",
+      "target": "src_server_createmcpserver"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_main_http_ts",
+      "target": "apps_mcp_src_server_ts"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/main/stdio.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_main_stdio_ts",
+      "target": "apps_mcp_src_server_ts"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/test/ping.test.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_test_ping_test_ts",
+      "target": "apps_mcp_src_server_ts"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_main_http_ts",
+      "target": "src_server_createmcpserver"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/main/stdio.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_main_stdio_ts",
+      "target": "src_server_createmcpserver"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/test/ping.test.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_test_ping_test_ts",
+      "target": "src_server_createmcpserver"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "apps/mcp/test/ping.test.ts",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_ping_test_connectedclient",
+      "target": "src_server_createmcpserver"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_main_http_ts",
+      "target": "main_http_port"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/src/main/http.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_src_main_http_ts",
+      "target": "main_http_http"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/mcp/test/ping.test.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "apps_mcp_test_ping_test_ts",
+      "target": "test_ping_test_connectedclient"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/rag/src/fusion.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "packages_rag_src_fusion_ts",
+      "target": "src_fusion_reciprocalrankfusion"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/rag/test/fusion.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "packages_rag_test_fusion_test_ts",
+      "target": "packages_rag_src_index_ts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/src/dnd_ingest/__main__.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_src_dnd_ingest_main_py",
+      "target": "dnd_ingest_main_main"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/src/dnd_ingest/__main__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_ingest_main_rationale_1",
+      "target": "pipelines_ingest_src_dnd_ingest_main_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/tests/test_smoke.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_tests_test_smoke_py",
+      "target": "tests_test_smoke_test_version"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/tests/test_smoke.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_tests_test_smoke_py",
+      "target": "tests_test_smoke_test_version"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_build_subset"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_run_pymupdf4llm"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_run_docling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L78",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_run_marker"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L99",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_marker_figures"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L124",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_metrics"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L142",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_run_parsers_py",
+      "target": "spikes_run_parsers_main"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_run_parsers_rationale_1",
+      "target": "pipelines_ingest_spikes_run_parsers_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L158",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_run_parsers_main",
+      "target": "spikes_run_parsers_build_subset"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L95",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_run_parsers_run_marker",
+      "target": "spikes_run_parsers_marker_figures"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/run_parsers.py",
+      "source_location": "L163",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_run_parsers_main",
+      "target": "spikes_run_parsers_metrics"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_image_coverage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_is_two_column"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_has_sidebar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_classify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_spread"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_select"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L97",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_select_pages_py",
+      "target": "spikes_select_pages_main"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_rationale_1",
+      "target": "pipelines_ingest_spikes_select_pages_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_classify",
+      "target": "spikes_select_pages_image_coverage"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_classify",
+      "target": "spikes_select_pages_is_two_column"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_classify",
+      "target": "spikes_select_pages_has_sidebar"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_select",
+      "target": "spikes_select_pages_classify"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L84",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_select",
+      "target": "spikes_select_pages_spread"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/select_pages.py",
+      "source_location": "L103",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_select_pages_main",
+      "target": "spikes_select_pages_select"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_summarize_py",
+      "target": "spikes_summarize_folio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_summarize_py",
+      "target": "spikes_summarize_folio_retention"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_summarize_py",
+      "target": "spikes_summarize_main"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_summarize_rationale_1",
+      "target": "pipelines_ingest_spikes_summarize_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_summarize_folio_retention",
+      "target": "spikes_summarize_folio"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/summarize.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_summarize_main",
+      "target": "spikes_summarize_folio_retention"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_metrics_py",
+      "target": "dnd_eval_metrics_recall_at_k"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_metrics_py",
+      "target": "dnd_eval_metrics_mrr"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_metrics_py",
+      "target": "dnd_eval_metrics_ndcg_at_k"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_metrics_py",
+      "target": "dnd_eval_metrics_citation_accuracy"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_metrics_py",
+      "target": "dnd_eval_metrics_faithfulness"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_metrics_rationale_1",
+      "target": "pipelines_eval_src_dnd_eval_metrics_py"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_report_py",
+      "target": "pipelines_eval_src_dnd_eval_metrics_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "dnd_eval_report_score",
+      "target": "dnd_eval_metrics_recall_at_k"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "tests_test_eval_test_recall_mrr_ndcg",
+      "target": "dnd_eval_metrics_recall_at_k"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "dnd_eval_report_score",
+      "target": "dnd_eval_metrics_mrr"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "tests_test_eval_test_recall_mrr_ndcg",
+      "target": "dnd_eval_metrics_mrr"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "dnd_eval_report_score",
+      "target": "dnd_eval_metrics_ndcg_at_k"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "tests_test_eval_test_recall_mrr_ndcg",
+      "target": "dnd_eval_metrics_ndcg_at_k"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_metrics_rationale_36",
+      "target": "dnd_eval_metrics_citation_accuracy"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "dnd_eval_report_score",
+      "target": "dnd_eval_metrics_citation_accuracy"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "tests_test_eval_test_citation_accuracy",
+      "target": "dnd_eval_metrics_citation_accuracy"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/metrics.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_metrics_rationale_43",
+      "target": "dnd_eval_metrics_faithfulness"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_dataset_py",
+      "target": "dnd_eval_dataset_question"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_dataset_py",
+      "target": "dnd_eval_dataset_abstain"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_dataset_py",
+      "target": "dnd_eval_dataset_parse"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_dataset_py",
+      "target": "dnd_eval_dataset_validate"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_dataset_py",
+      "target": "dnd_eval_dataset_load"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_dataset_rationale_1",
+      "target": "pipelines_eval_src_dnd_eval_dataset_py"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_report_py",
+      "target": "pipelines_eval_src_dnd_eval_dataset_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_dataset_parse",
+      "target": "dnd_eval_dataset_question"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_dataset_parse",
+      "target": "dnd_eval_dataset_validate"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/dataset.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_dataset_load",
+      "target": "dnd_eval_dataset_parse"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_report_py",
+      "target": "dnd_eval_report_score"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_report_py",
+      "target": "dnd_eval_report_aggregate"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_report_py",
+      "target": "dnd_eval_report_compare"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_report_py",
+      "target": "dnd_eval_report_save"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_report_rationale_1",
+      "target": "pipelines_eval_src_dnd_eval_report_py"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_main_py",
+      "target": "pipelines_eval_src_dnd_eval_report_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/report.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_report_save",
+      "target": "dnd_eval_report_aggregate"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "dnd_eval_main_main",
+      "target": "dnd_eval_report_compare"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_main_py",
+      "target": "pipelines_eval_src_dnd_eval_init_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_src_dnd_eval_main_py",
+      "target": "dnd_eval_main_main"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/src/dnd_eval/__main__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_eval_main_rationale_1",
+      "target": "pipelines_eval_src_dnd_eval_main_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_tests_test_eval_py",
+      "target": "tests_test_eval_test_recall_mrr_ndcg"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_tests_test_eval_py",
+      "target": "tests_test_eval_test_citation_accuracy"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/eval/tests/test_eval.py",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_eval_tests_test_eval_py",
+      "target": "tests_test_eval_test_validation_rejects_bad_rows"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_md",
+      "target": "dnd_assistant_readme_d_d_assistant"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_assistant_readme_d_d_assistant",
+      "target": "dnd_assistant_readme_requisitos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_assistant_readme_d_d_assistant",
+      "target": "dnd_assistant_readme_arranque"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_assistant_readme_d_d_assistant",
+      "target": "dnd_assistant_readme_comandos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_assistant_readme_d_d_assistant",
+      "target": "dnd_assistant_readme_estructura"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "dnd_assistant_readme_arranque",
+      "target": "dnd_assistant_readme_codeblock_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pipelines_ingest_spikes_readme_md",
+      "target": "spikes_readme_spike_parsing_de_manuales_pdf_adr_001"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipelines/ingest/spikes/README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "spikes_readme_spike_parsing_de_manuales_pdf_adr_001",
+      "target": "spikes_readme_codeblock_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_md",
+      "target": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_1_vista_general"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_2_estructura_del_monorepo_mismo_patr_n_que_task_app"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_3_ingesta_calidad_de_los_datos_calidad_del_rag"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L75",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_4_recuperaci_n_packages_rag"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L102",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_5_multimodal_im_genes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L117",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_6_base_de_datos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L133",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_7_mcp"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L147",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_8_evaluaci_n_desde_el_d_a_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L155",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_d_d_assistant_arquitectura_propuesta_poc",
+      "target": "docs_architecture_9_riesgos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_1_vista_general",
+      "target": "docs_architecture_codeblock_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_2_estructura_del_monorepo_mismo_patr_n_que_task_app",
+      "target": "docs_architecture_codeblock_2"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L93",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_architecture_4_recuperaci_n_packages_rag",
+      "target": "docs_architecture_grafo_de_conocimiento"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_adr_001_parser_md",
+      "target": "adr_001_parser_adr_001_parser_de_los_manuales_pdf"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_adr_001_parser_de_los_manuales_pdf",
+      "target": "adr_001_parser_contexto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_adr_001_parser_de_los_manuales_pdf",
+      "target": "adr_001_parser_m_todo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_adr_001_parser_de_los_manuales_pdf",
+      "target": "adr_001_parser_resultados"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L95",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_adr_001_parser_de_los_manuales_pdf",
+      "target": "adr_001_parser_decisi_n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L120",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_adr_001_parser_de_los_manuales_pdf",
+      "target": "adr_001_parser_limitaciones_del_spike_no_resueltas"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "001-parser.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "001_parser_md",
+      "target": "adr_001_parser_adr_001_parser_de_los_manuales_pdf"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_resultados",
+      "target": "adr_001_parser_ejemplos_de_salida_monster_manual_p_40_chuul"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_ejemplos_de_salida_monster_manual_p_40_chuul",
+      "target": "adr_001_parser_codeblock_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_ejemplos_de_salida_monster_manual_p_40_chuul",
+      "target": "adr_001_parser_codeblock_2"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L86",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_ejemplos_de_salida_monster_manual_p_40_chuul",
+      "target": "adr_001_parser_codeblock_3"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/adr/001-parser.md",
+      "source_location": "L113",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "adr_001_parser_decisi_n",
+      "target": "adr_001_parser_alternativas_descartadas"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "2d207e797d2a14ad7482c2cc8b2eb6ddf7e35665"
+}
