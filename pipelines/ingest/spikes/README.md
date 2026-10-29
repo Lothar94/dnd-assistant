@@ -16,3 +16,4 @@ UV_PROJECT_ENVIRONMENT=.venv-marker uv sync --no-install-project --no-default-gr
 Salida en `out/<parser>/<libro>/{pages/NNNN.md,figures.json,metrics.json}` (ignorada por git).
 El número de página de los ficheros es el índice 0-based del PDF original.
 `sample.json` fija las páginas evaluadas para poder repetir la comparación.
+Ejecutar los scripts desde `pipelines/ingest/spikes` (rutas relativas a `data/raw`).
