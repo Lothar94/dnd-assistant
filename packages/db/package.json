@@ -6,9 +6,16 @@
   "scripts": {
     "migrate": "dbmate --migrations-dir ./migrations --no-dump-schema up",
     "rollback": "dbmate --migrations-dir ./migrations --no-dump-schema down",
-    "status": "dbmate --migrations-dir ./migrations status"
+    "status": "dbmate --migrations-dir ./migrations status",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "dbmate": "^2.37.0"
+    "@types/node": "^26.6.5",
+    "@types/pg": "^8.23.1",
+    "dbmate": "^2.37.0",
+    "pg": "^8.23.1",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.5"
   }
 }

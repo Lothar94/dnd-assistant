@@ -36,8 +36,8 @@ db-up: .env ## Levanta Postgres (5433) y espera a que esté sano
 db-down: ## Para Postgres
 	$(COMPOSE) down
 
-db-migrate: .env ## Aplica las migraciones SQL
-	set -a; . ./.env; set +a; pnpm --filter @dnd/db migrate
+db-migrate: .env ## Aplica las migraciones SQL (EMBEDDING_DIM fija la dimensión, def. 1024)
+	set -a; . ./.env; set +a; PGOPTIONS="-c dnd.embedding_dim=$${EMBEDDING_DIM:-1024}" pnpm --filter @dnd/db migrate
 
 ingest: ## Ejecuta el pipeline de ingesta
 	cd pipelines/ingest && uv run python -m dnd_ingest
