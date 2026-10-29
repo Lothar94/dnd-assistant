@@ -48,7 +48,7 @@ sale de leer las páginas de ejemplo.
 | criterio | pymupdf4llm | Docling | marker 1.x |
 |---|---|---|---|
 | Texto (el escaneo trae OCR malo) | hereda la capa mala (`aberra tion`, `1;1atural`) | mixto: arregla `30 ft.`, `natural armor`, `While`, pero introduce `abérration`, `whofind`, `B e s t ow C urse` | mixto: hereda la capa (`1;1atural`, `W hile`) pero acierta `aberration`, `those who find` donde Docling falla |
-| Orden de lectura | bloque de estadísticas antes que la narrativa en la página de monstruo (orden físico) | narrativa y luego estadísticas; en DMG p.19 el orden coincide con marker (solo los pies de ilustración quedan fuera de sitio) | como Docling |
+| Orden de lectura | bloque de estadísticas antes que la narrativa en la página de monstruo (orden físico) | narrativa y luego estadísticas; en DMG p.19 intercambia dos párrafos (`Conversely…` antes de `Even city-states…`) y deja los pies de ilustración en mitad del texto | mantiene el orden físico en DMG p.19; narrativa antes que estadísticas como Docling |
 | Jerarquía de encabezados | niveles 1–6 por tamaño de fuente, coherentes pero con ruido (`ACTIONS` como h6) | **todos `##`**: no hay jerarquía | niveles 1–4, inconsistentes (`CHUUL` h3, `OPTIONAL RULE` h1) |
 | Bloque de monstruo | texto plano; atributos en una línea | **tabla markdown de atributos** (STR…CHA) | atributos en una línea |
 | Tablas | rotas en 2 filas por celda partida | la tabla `d6` de DMG p.51 sale como lista | lista con prefijos; sin tabla real |
@@ -134,5 +134,6 @@ una ingesta puntual que se cachea.
 - **La calidad de texto no favorece claramente a Docling**: en los ejemplos revisados marker acierta
   palabras que Docling estropea y viceversa. No se midió con métrica; antes de ingerir conviene
   una comparación de texto con verdad terreno (p. ej. 20 páginas transcritas a mano).
-- Docling dejó OCR basura en MM p.231 (página de arte).
+- Docling dejó OCR basura en MM p.231 (página de arte) e invirtió el orden de dos párrafos en
+  DMG p.19.
 - `summarize.py` y `select_pages.py` se ejecutan desde `spikes/` (rutas relativas a `data/raw`).
